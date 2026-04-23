@@ -31,9 +31,9 @@ Le motif bitmap qui caractérise l'identité visuelle de Constelladas est une br
 | Microphone I2S | INMP441 | ~3€ |
 | LED puissance | 4W RGBW | ~5€ |
 | LED anneau | WS2812 24 LEDs (WS2812 seulement) | ~8€ |
-| Impression 3D boîtier | PLA | ~20-30€ |
+| Impression 3D boîtier | PLA | ~€ |
 
-**Total estimé par unité : 45-60€**
+**Total estimé par unité : 25€**
 
 ### Réseau
 
@@ -246,5 +246,6 @@ MIT — libre d'utilisation, modification et distribution.
 
 Développé par **Alfonsina Fernandez** — Diplôme de design, 2026.  
 Première application : artiste **La Nenita** (Chili).
+LAN Ensad Paris
+Jose Miguel Fernandez RepMus IRCAM Paris
 
-*"Pour les artistes qui brillent seules."*
